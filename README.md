@@ -10,6 +10,7 @@ Designed with a professional corporate layout and interactive filtering for HR d
 **KPIs**
 
   🔴 Total Number of Employees
+  
   🔴 Total Employee Salary
   🔴 Total Working Hours
   🔴 Total Leaves Taken
