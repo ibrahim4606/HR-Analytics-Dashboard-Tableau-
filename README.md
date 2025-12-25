@@ -1,5 +1,6 @@
 # HR-Analytics-Dashboard-Tableau-
 📊 HR Analytics Dashboard (Tableau)
+
 🔍 Overview
 
 An interactive HR Analytics Dashboard developed using Tableau to analyze employee data and provide insights into workforce distribution, salary trends, and employee details.
