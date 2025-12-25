@@ -7,71 +7,70 @@ Designed with a professional corporate layout and interactive filtering for HR d
 
 🎯 Key Features
 
-KPIs
+**KPIs**
 
-Total Number of Employees
+  🔴 Total Number of Employees
 
-Total Employee Salary
+  🔴 Total Employee Salary
 
-Total Working Hours
+  🔴 Total Working Hours
 
-Total Leaves Taken
+  🔴 Total Leaves Taken
 
-Visualizations
+**Visualizations**
 
-Average Salary by Job Category
+  🔴 Average Salary by Job Category
+  
+  🔴 Employees by Location
 
-Employees by Location
+  🔴 Employees by Job Category (Donut Chart)
 
-Employees by Job Category (Donut Chart)
+  🔴 Detailed Employee Information Table
 
-Detailed Employee Information Table
+**Interactivity**
 
-Interactivity
+  🔴 Filters for Job Location and Job Category
 
-Filters for Job Location and Job Category
-
-Dynamic updates across all charts and KPIs
+  🔴 Dynamic updates across all charts and KPIs
 
 📂 Dataset
 
-Employee-level data including:
-
-Emp ID
-
-Name
-
-Company Name
-
-Job Role
-
-Job Category
-
-Job Location
-
-Working Hours
-
-Salary Drawn
-
-Leaves Taken
+**Employee-level data including:**
+  
+  Emp ID
+  
+  Name
+  
+  Company Name
+  
+  Job Role
+  
+  Job Category
+  
+  Job Location
+  
+  Working Hours
+  
+  Salary Drawn
+  
+  Leaves Taken
 
 🛠️ Tools Used
 
-Tableau Desktop
+**Tableau Desktop**
 
 🚀 Use Cases
 
-HR Analytics
+  🔷 HR Analytics
 
-Workforce Planning
+  🔷 Workforce Planning
 
-Salary Benchmarking
+  🔷 Salary Benchmarking
 
-Tableau Portfolio / Interview Project
 
 👤 Author
 
-Ibrahim Pathan
+**Ibrahim Pathan**
 
 
 <img width="1251" height="828" alt="image" src="https://github.com/user-attachments/assets/1eabbe75-2374-4eb2-9e62-342bb15977dd" />
