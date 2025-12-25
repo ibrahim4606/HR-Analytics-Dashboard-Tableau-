@@ -10,27 +10,20 @@ Designed with a professional corporate layout and interactive filtering for HR d
 **KPIs**
 
   🔴 Total Number of Employees
-
   🔴 Total Employee Salary
-
   🔴 Total Working Hours
-
   🔴 Total Leaves Taken
 
 **Visualizations**
 
   🔴 Average Salary by Job Category
-  
   🔴 Employees by Location
-
   🔴 Employees by Job Category (Donut Chart)
-
   🔴 Detailed Employee Information Table
 
 **Interactivity**
 
   🔴 Filters for Job Location and Job Category
-
   🔴 Dynamic updates across all charts and KPIs
 
 📂 Dataset
@@ -38,21 +31,13 @@ Designed with a professional corporate layout and interactive filtering for HR d
 **Employee-level data including:**
   
   Emp ID
-  
   Name
-  
   Company Name
-  
   Job Role
-  
   Job Category
-  
   Job Location
-  
   Working Hours
-  
   Salary Drawn
-  
   Leaves Taken
 
 🛠️ Tools Used
@@ -62,9 +47,7 @@ Designed with a professional corporate layout and interactive filtering for HR d
 🚀 Use Cases
 
   🔷 HR Analytics
-
   🔷 Workforce Planning
-
   🔷 Salary Benchmarking
 
 
